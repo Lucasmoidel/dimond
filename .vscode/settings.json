@@ -2,5 +2,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "jars/KarelJRobot.jar"
-    ]
+    ],
+    "makefile.makefilePath": "Makefile"
 }
